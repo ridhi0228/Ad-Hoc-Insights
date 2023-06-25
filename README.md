@@ -1,4 +1,4 @@
-# Ad-Hoc-Insights
+# AtliQ Hardware
 
 Atliq Hardware : A financial and sales analysis
 Challenge
@@ -8,6 +8,7 @@ Domain
 Consumer Goods | Function : Excecutive Management
 
 Problem statement
+
 Atliq Hardware (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.
 However, the management noticed that they do not get enough insights to make quick and smart data-informed decisions.
 Hence, company decided to conduct a SQL challenge which will help them to understand the data.
