@@ -1,3 +1,4 @@
+[Consumer goods.pdf](https://github.com/ridhi0228/Ad-Hoc-Insights/files/12385239/Consumer.goods.pdf)
 # AtliQ Hardware
 
 Atliq Hardware : A financial and sales analysis
