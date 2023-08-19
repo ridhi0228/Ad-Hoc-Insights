@@ -30,9 +30,9 @@ Glimpses of presentation :
 
 ![Screenshot (240)](https://github.com/ridhi0228/Ad-Hoc-Insights/assets/132190698/c385ebdd-9501-4c32-ba95-d02bf7f24198)
 
-![Screenshot (242)](https://github.com/ridhi0228/Ad-Hoc-Insights/assets/132190698/52a62ac5-3b6b-4583-b3b1-eb78981b7908)
-
 ![Screenshot (241)](https://github.com/ridhi0228/Ad-Hoc-Insights/assets/132190698/650ffdad-e4ca-4099-b1f6-c3028fc95feb)
+
+![Screenshot (242)](https://github.com/ridhi0228/Ad-Hoc-Insights/assets/132190698/52a62ac5-3b6b-4583-b3b1-eb78981b7908)
 
 ![Screenshot (245)](https://github.com/ridhi0228/Ad-Hoc-Insights/assets/132190698/249c9439-2980-420e-86f1-ed1f28bed927)
 
